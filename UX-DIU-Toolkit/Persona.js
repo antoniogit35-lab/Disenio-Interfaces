@@ -90,7 +90,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Ganar dinero para poder comparme una casa y poder hacer viajes."],
 				Frustrations: ["Le mandan 40 tareas para el sprint y no se aclara."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Bio: "Desarrollador Junior de 21 años, siempre ha sido un apasionado de los ordenadores y los juegos lo que le llevó a estudiar informática, se quedó trabajando en la empresa que hizo las prácticas y ahora después de terminar su formación se encuentra con una gran carga de trabajo.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
 					{ Name: "Mobile", Value: 2 },
@@ -98,7 +98,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 5 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Debido a todas las tareas que tiene en el trabajo le cuesta organizarse y cuando tiene que ponerse a trabajar no sabe por donde empezar." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 0 },
 					{ Name: "Online & Social Media", Value: 5 },
